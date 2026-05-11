@@ -14,7 +14,7 @@ make
 ```
 
 ## Converting to WUHB Format (Optional)
-**wuhbtool** should come with wut-tools. You can use it via the command line to convert the built `.rpx` to WUHB format:
+**wuhbtool** should come in wut-tools. You can use it via the command line to convert the built `.rpx` to WUHB format:
 
 ```bash
 wuhbtool YOURBUILTRPX.rpx DpadColorChanger.wuhb \
