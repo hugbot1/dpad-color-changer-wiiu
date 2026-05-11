@@ -25,4 +25,4 @@ wuhbtool YOURBULTRPXFILE.rpx DpadColorChanger.wuhb \
   --drc-image=images/drc.png
 ```
 
-## Both RPX and WUHB files are ment for Aroma ONLY
+## Both RPX and WUHB files are meant for Aroma ONLY
