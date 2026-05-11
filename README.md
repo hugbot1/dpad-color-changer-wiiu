@@ -17,13 +17,12 @@ make
 **wuhbtool** should come in wut-tools. You can use it via the command line to convert the built `.rpx` to WUHB format:
 
 ```bash
-wuhbtool YOURBUILTRPX.rpx DpadColorChanger.wuhb \
-  --name "DpadColorChanger" \
-  --long-name "Dpad Color Changer" \
-  --short-name "Dpad Color Changer" \
-  --tv-image /images/tv.png \
-  --logo /images/logo.png \
-  --drc-image /images/drc.png
+wuhbtool YOURBULTRPXFILE.rpx DpadColorChanger.wuhb \
+  --name="Dpad Color Changer" \
+  --short-name="Dpad Color Changer" \
+  --icon=images/logo.png \
+  --tv-image=images/tv.png \
+  --drc-image=images/drc.png
 ```
 
 ## Both RPX and WUHB files are ment for Aroma ONLY
