@@ -17,7 +17,7 @@ make
 **wuhbtool** should come with wut-tools. You can use it via the command line to convert the built `.rpx` to WUHB format:
 
 ```bash
-wuhbtool DpadColorChanger.rpx DpadColorChanger.wuhb \
+wuhbtool YOURBUILTRPX.rpx DpadColorChanger.wuhb \
   --name "DpadColorChanger" \
   --long-name "Dpad Color Changer" \
   --short-name "Dpad Color Changer" \
