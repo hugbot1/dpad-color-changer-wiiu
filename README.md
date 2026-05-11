@@ -5,7 +5,7 @@ You can use this app for a green screen in video editing software.
 ## Meant for Aroma ONLY
 
 ## Installation
-Download the latest release from the [Releases page](https://github.com/Lynx64/EjectDisc/releases) by clicking on `DpadColorChanger.wuhb`.<br/>
+Download the latest release from the [Releases page](https://github.com/hugbot1/dpad-color-changer-wiiu/releases/) by clicking on `DpadColorChanger.wuhb`.<br/>
 Place the `DpadColorChanger.wuhb` file to the /wiiu/apps/ folder your SD card.
 
 ## Building
